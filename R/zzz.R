@@ -151,7 +151,7 @@ utils::globalVariables(
 #' - `gt.latex_packages`: A vector of LaTeX package names to use when generating
 #' tables in the LaTeX output context. The set of packages loaded is controlled
 #' by this default vector:
-#' `c("booktabs", "caption", "longtable", "colortbl", "array", "anyfontsize", "multirow")`.
+#' `c("booktabs", "caption", "longtable", "colortbl", "array", "anyfontsize", "multirow", "stackengine")`.
 #'
 #' @keywords internal
 #' @name gt-options
