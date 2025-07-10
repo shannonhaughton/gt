@@ -146,7 +146,7 @@ as_raw_html <- function(
 #' The `gt_packages.sty` file would then contain the listed dependencies above:
 #'
 #' \preformatted{
-#'   \usepackage{booktabs, caption, longtable, colortbl, array}
+#'   \usepackage{`r paste0(gt:::latex_packages(), collapse = ", ")`}
 #' }
 #'
 #' @section Examples:

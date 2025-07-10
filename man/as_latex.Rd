@@ -40,7 +40,7 @@ output:
 The \code{gt_packages.sty} file would then contain the listed dependencies above:
 
 \preformatted{
-  \usepackage{booktabs, caption, longtable, colortbl, array}
+  \usepackage{booktabs, caption, longtable, colortbl, array, anyfontsize, multirow, stackengine}
 }
 }
 \section{Examples}{
