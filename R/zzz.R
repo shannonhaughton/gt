@@ -164,7 +164,7 @@ gt_default_options <-
     gt.latex_packages = c(
       "booktabs", "caption", "longtable",
       "colortbl", "array", "anyfontsize",
-      "multirow"
+      "multirow", "stackengine"
     )
   )
 
